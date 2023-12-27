@@ -28,3 +28,11 @@ Healthy website is well designed and best was appropriate for for Medical purpos
 
 ### Azure Technology :
 Static Web App, Storage Account, Health Bot
+
+### Screenshort :
+![Screenshot6](https://github.com/Sabbir9143/myproject01/assets/147207834/54083d5f-c9e4-463a-baae-22f689bac192)
+![Screenshot5](https://github.com/Sabbir9143/myproject01/assets/147207834/53b1cc5e-452c-45eb-86c8-1262a94231e0)
+![Screenshot4](https://github.com/Sabbir9143/myproject01/assets/147207834/dfc7271e-af06-42c6-a450-a2db527bd91d)
+![Screenshot3](https://github.com/Sabbir9143/myproject01/assets/147207834/49554c3c-94ae-4d09-864d-32e4d6f81e0f)
+![Screenshot2](https://github.com/Sabbir9143/myproject01/assets/147207834/88799e8f-e9ea-4085-9f17-326bc826db58)
+![Screenshot1](https://github.com/Sabbir9143/myproject01/assets/147207834/f6a1499b-febb-4440-b807-3e508659ade8)
